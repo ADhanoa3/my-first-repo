@@ -12,4 +12,4 @@ homework/
 ├── task_2.py
 └── task_3.py
 ```
-Only edit the bottom three files.
+Your final code needs to be contained in the **bottom three files**. You do not need to include scratch work in the provided Jupyter notebook if you do not find it necessary.
