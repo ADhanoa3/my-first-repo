@@ -5,10 +5,6 @@ Below the __init__.py file, you will see three Python files with the following n
 ## Homework folder structure
 ```
 homework/
-├── tests/
-|   ├── test_task_1.py
-|   ├── test_task_2.py
-|   └── test_task_3.py
 ├── README.md
 ├── __init__.py
 ├── task_1.py
