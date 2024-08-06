@@ -22,9 +22,10 @@ Here is a brief overview of the repository structure:
 ```
 my-first-repo
 ├── homework/
-│   ├── README.md
-│   ├── file_1.py
-│   └── file_2.py
+│   ├── task_1.py
+│   ├── task_2.py
+│   ├── task_3.py
+│   └── README.md
 ├── README.md
 └── class_notes.ipynb
 ```
