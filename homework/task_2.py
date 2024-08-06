@@ -8,16 +8,18 @@
 
 
 
-# 3. Print to the console Sum of all numbers: # where # is the value of sum_numbers.
+# 3. Print to the console the following: Sum of all numbers: #
+# where # is the value of sum_numbers.
 
 
 
-# 4. Use the variable sum_numbers and another built in function to calculate the average of the list numbers.
+# 4. Use the variable sum_numbers and another built-in function to calculate the average of the list numbers.
 # Set the average to the variable average_numbers.
 
 
 
-# 5. Print to console Average of numbers: # where # is the value of average_numbers.
+# 5. Print to console the following: Average of numbers: #
+# where # is the value of average_numbers.
 
 
 
@@ -26,10 +28,12 @@
 
 
 
-# 7. Print to console Maximum number: # where # is the value of max_number.
+# 7. Print to console the following: Maximum number: #
+# where # is the value of max_number.
 
 
 
-# 8. Print to console Minimum number: # where # is the value of min_number.
+# 8. Print to console the following: Minimum number: #
+# where # is the value of min_number.
 
 
