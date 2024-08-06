@@ -54,7 +54,7 @@ def test_printed_output():
         f"Average of numbers: {average_numbers}\n"
         f"Maximum number: {max_number}\n"
         f"Minimum number: {min_number}\n"
-    )  # Adjust based on example values in the task script
+    )
     assert (
         result.stdout == expected_output
     ), f"Expected '{expected_output}' but got '{result.stdout}'"
