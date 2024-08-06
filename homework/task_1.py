@@ -9,6 +9,7 @@
 
 
 
-# 3. Print to the console Result: # where # is the value of the result variable.
-# For example, if a and b are 2 and 3 respectively, then the variable result should be 8
-# and Result: 8 should be printed to the console (with the space after the colon).
+# 3. Print to the console the following: Result: #
+# where # is replaced with the value of the result variable. For example, if a and b are 2 and 3
+# respectively, then the variable result should be 8 and Result: 8
+# should be printed to the console (with the space after the colon).
