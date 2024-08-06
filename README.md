@@ -1,6 +1,6 @@
 # Welcome to MATH 4330: Numerical Analysis!
 
-Welcome to Numerical Analysis with Dr. De Silva! This repository will serve as your first step into a world at the intersection of mathematics and computer programming. Below you will find important information about the course, **repository** structure, and initial assignments.
+Welcome to Numerical Analysis with Dr. De Silva! This repository will serve as your first step into a world that unites mathematics and computer programming. Below you will find important information about the course, **repository** structure, and initial assignments.
 
 >💡 A **repository** is a central place where all the files and folders related to a specific project are stored and managed. It allows you to track changes, collaborate with others, and keep a history of your work.
 
