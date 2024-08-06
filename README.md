@@ -22,7 +22,7 @@ Here is a brief overview of the repository structure:
 ```
 my-first-repo
 ├── homework/
-│   ├── instructions.md
+│   ├── README.md
 │   ├── file_1.py
 │   └── file_2.py
 ├── README.md
