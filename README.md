@@ -14,7 +14,7 @@ In this course, we will explore various numerical methods used to solve mathemat
 - Interpolation and curve fitting
 - Eigenvalue problems
 
-All of these numerical methods will be implemented using the programming language **Python**.
+All of these numerical methods will be implemented using the programming language **Python**. In this repository, we will learn some of the syntax and fundamental data structures in Python.
 
 ## Repository Structure
 
